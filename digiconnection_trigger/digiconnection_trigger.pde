@@ -1,3 +1,5 @@
+//based on the minum trigger sample
+
 import ddf.minim.*;
 
 Minim minim;
