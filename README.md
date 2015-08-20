@@ -4,4 +4,10 @@ Code for lyall to use, for short workshop on fun with arduino+processing+skype.
 
 You'll need soundflower to route audio around apps https://rogueamoeba.com/freebies/soundflower/
 
-![solarized palette](https://github.com/altercation/solarized/raw/master/img/solarized-palette.png)
+Once you've install soundflower, adjust your sound settings to match the below images:
+
+![settings](https://github.com/nicshackle/Digital-connections-workshop/blob/master/Screen%20Shot%202015-08-20%20at%2011.25.24%20AM.png)
+
+![settings](https://github.com/nicshackle/Digital-connections-workshop/blob/master/Screen%20Shot%202015-08-20%20at%2011.25.34%20AM.png)
+
+![settings](https://github.com/nicshackle/Digital-connections-workshop/blob/master/Screen%20Shot%202015-08-20%20at%2011.25.43%20AM.png)
